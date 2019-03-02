@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+.jumbo-header{
+    font-family:  "Fajilla=One",
+}
+.jumbo-header2{
+    font-family:  "Fjalla+One", 
+ }
+.jumbotron {
+    color:white;
+    background-color:  pink;
+    margin: 0;
+
+}

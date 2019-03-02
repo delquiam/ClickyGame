@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Acme');
+
+.navbar{
+    background-color: lightgoldenrodyellow;
+}
+.answer {
+    font-size: 55px;
+    font-weight: 200;
+    color:black
+}
+
+.score {
+    font-size: 40px;
+    font-weight: 200;
+    color: black
+} 

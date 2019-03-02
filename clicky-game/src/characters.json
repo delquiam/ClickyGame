@@ -1,72 +1,102 @@
 [
     {
       "id": 1,
-      "name": "Aquaman",
-      "image": "Aquaman.jpg"
+      "name": "Burger",
+      "image": "burger.jpg"
     },
     {
         "id": 2,
-        "name": "Bane",
-        "image": "Bane.jpg"
+        "name": "Cat",
+        "image": "cat.jpg"
       },
       {
         "id": 3,
-        "name": "Batman",
-        "image": "Batman.jpg"
+        "name": "Coconut",
+        "image": "coconut.jpg"
       },
       {
         "id": 4,
-        "name": "Batwoman",
-        "image": "Batwoman.jpg"
+        "name": "Cookie",
+        "image": "cookie.jpg"
       },
       {
         "id": 5,
-        "name": "Catwoman",
-        "image": "Catwoman.jpg"
+        "name": "Cupcake",
+        "image": "cupcake.jpg"
       },
       {
         "id": 6,
-        "name": "Green Arrow",
-        "image": "GreenArrow.jpg"
+        "name": "Dog",
+        "image": "dog.jpg"
       },
       {
         "id": 7,
-        "name": "Green Lantern",
-        "image": "GreenLantern.jpg"
+        "name": "Donuts",
+        "image": "donuts.jpg"
       },
       {
         "id": 8,
-        "name": "Hawkman",
-        "image": "Hawkman.jpg"
+        "name": "Fox",
+        "image": "fox.jpg"
       },
       {
         "id": 9,
-        "name": "Robin",
-        "image": "Robin.jpg"
+        "name": "Hot Dog",
+        "image": "hotdog.jpg"
       },
       {
         "id": 10,
-        "name": "Shazam",
-        "image": "Shazam.jpg"
+        "name": "Ice Cream",
+        "image": "icecrean.jpg"
       },
       {
         "id": 11,
-        "name": "Supergirl",
-        "image": "Supergirl.jpg"
+        "name": "Ice Cream 2",
+        "image": "icecream2.jpg"
       },
       {
         "id": 12,
-        "name": "Superman",
-        "image": "Superman.jpg"
+        "name": "Mouse",
+        "image": "mouse.jpg"
       },
       {
         "id": 13,
-        "name": "The Flash",
-        "image": "TheFlash.jpg"
+        "name": "Narwahl",
+        "image": "narwahl.jpg"
       },
       {
         "id": 14,
-        "name": "Wonder Woman",
-        "image": "WonderWoman.jpg"
+        "name": "Noodles",
+        "image": "noodles.jpg"
+      },
+      {
+        "id": 15,
+        "name": "OctiCream",
+        "image": "octicream.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Panda",
+        "image": "panda.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Pineapple",
+        "image": "pineapple.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Rabbit",
+        "image": "rabbit.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Uni",
+        "image": "uni.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Unicorn",
+        "image": "unicorn.jpg"
       }
     ]
