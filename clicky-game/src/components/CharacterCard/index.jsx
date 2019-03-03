@@ -1,19 +1,12 @@
 import React from "react";
 import "./style.css";
 
-function CharacterCard(props) {
-  return (
-    <div className="col s12 m3">
-      <div
-        className="card hoverable"
-        onClick={() => props.updateScore(props.id)}
-      >
-        <div className="card-image center">
-          <img src={props.image} alt={props.name} />
-        </div>
-      </div>
+//pass the image into each card so all 12 are rendered
+const CharacterCard = props => (
+  <div className="card" onClick={props.imageClick}>
+    <div className="img-container">
+      <img alt={props.image.replace(".png", "")} src={require("../../images/" + props.image)} />
     </div>
-  );
-}
-
+  </div>
+);
 export default CharacterCard;

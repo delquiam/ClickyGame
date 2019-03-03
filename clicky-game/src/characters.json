@@ -1,102 +1,62 @@
 [
     {
       "id": 1,
-      "name": "Burger",
-      "image": "burger.jpg"
+      "name": "Badzmaru",
+      "image": "badtzmaru.png"
     },
     {
         "id": 2,
-        "name": "Cat",
-        "image": "cat.jpg"
+        "name": "Bon Bon Ribbon",
+        "image": "bonbonribbon.png"
       },
       {
         "id": 3,
-        "name": "Coconut",
-        "image": "coconut.jpg"
+        "name": "Chococat",
+        "image": "chococat.png"
       },
       {
         "id": 4,
-        "name": "Cookie",
-        "image": "cookie.jpg"
+        "name": "Cinnamoroll",
+        "image": "cinnamoroll.png"
       },
       {
         "id": 5,
-        "name": "Cupcake",
-        "image": "cupcake.jpg"
+        "name": "Hello Kitty",
+        "image": "hellokitty.png"
       },
       {
         "id": 6,
-        "name": "Dog",
-        "image": "dog.jpg"
+        "name": "Keroppi",
+        "image": "kerokerokeroppi.png"
       },
       {
         "id": 7,
-        "name": "Donuts",
-        "image": "donuts.jpg"
+        "name": "My Melody",
+        "image": "mymelody.png"
       },
       {
         "id": 8,
-        "name": "Fox",
-        "image": "fox.jpg"
+        "name": "Pochacco",
+        "image": "pochacco.png"
       },
       {
         "id": 9,
-        "name": "Hot Dog",
-        "image": "hotdog.jpg"
+        "name": "Pom Pom Purin",
+        "image": "pompompurin.png"
       },
       {
         "id": 10,
-        "name": "Ice Cream",
-        "image": "icecrean.jpg"
+        "name": "Tuxedo Sam",
+        "image": "tuxedosam.png"
       },
       {
         "id": 11,
-        "name": "Ice Cream 2",
-        "image": "icecream2.jpg"
+        "name": "Little Twin Stars",
+        "image": "twin.png"
       },
       {
         "id": 12,
-        "name": "Mouse",
-        "image": "mouse.jpg"
-      },
-      {
-        "id": 13,
-        "name": "Narwahl",
-        "image": "narwahl.jpg"
-      },
-      {
-        "id": 14,
-        "name": "Noodles",
-        "image": "noodles.jpg"
-      },
-      {
-        "id": 15,
-        "name": "OctiCream",
-        "image": "octicream.jpg"
-      },
-      {
-        "id": 16,
-        "name": "Panda",
-        "image": "panda.jpg"
-      },
-      {
-        "id": 17,
-        "name": "Pineapple",
-        "image": "pineapple.jpg"
-      },
-      {
-        "id": 18,
-        "name": "Rabbit",
-        "image": "rabbit.jpg"
-      },
-      {
-        "id": 19,
-        "name": "Uni",
-        "image": "uni.jpg"
-      },
-      {
-        "id": 20,
-        "name": "Unicorn",
-        "image": "unicorn.jpg"
+        "name": "Wish Me Mell",
+        "image": "wishmemell.png"
       }
     ]

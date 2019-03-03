@@ -11,7 +11,7 @@ class Navbar extends React.Component {
         <div className="answer col-xs-4" />
         {/* COl 3 */}
         <div className="score col-xs-4">
-          Score: {this.props.score} | High-Score: {this.props.highScore}
+          Score: {this.props.score} 
         </div>
       </div>
     );
